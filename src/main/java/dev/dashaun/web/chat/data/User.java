@@ -1,4 +1,4 @@
-package dev.dashaun.web.data;
+package dev.dashaun.web.chat.data;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.Column;

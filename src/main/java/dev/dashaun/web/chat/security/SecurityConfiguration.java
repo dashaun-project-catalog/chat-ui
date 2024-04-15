@@ -1,7 +1,7 @@
-package dev.dashaun.web.security;
+package dev.dashaun.web.chat.security;
 
 import com.vaadin.flow.spring.security.VaadinWebSecurity;
-import dev.dashaun.web.views.login.LoginView;
+import dev.dashaun.web.chat.views.login.LoginView;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

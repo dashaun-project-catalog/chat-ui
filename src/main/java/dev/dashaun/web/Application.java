@@ -3,7 +3,7 @@ package dev.dashaun.web;
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.component.page.Push;
 import com.vaadin.flow.theme.Theme;
-import dev.dashaun.web.data.UserRepository;
+import dev.dashaun.web.chat.data.UserRepository;
 import javax.sql.DataSource;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

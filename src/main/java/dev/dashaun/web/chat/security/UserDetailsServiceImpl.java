@@ -1,7 +1,7 @@
-package dev.dashaun.web.security;
+package dev.dashaun.web.chat.security;
 
-import dev.dashaun.web.data.User;
-import dev.dashaun.web.data.UserRepository;
+import dev.dashaun.web.chat.data.User;
+import dev.dashaun.web.chat.data.UserRepository;
 import java.util.List;
 import java.util.stream.Collectors;
 import org.springframework.security.core.GrantedAuthority;

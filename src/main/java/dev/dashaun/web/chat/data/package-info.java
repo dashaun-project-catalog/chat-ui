@@ -1,4 +1,4 @@
 @NonNullApi
-package dev.dashaun.web.services;
+package dev.dashaun.web.chat.data;
 
 import org.springframework.lang.NonNullApi;

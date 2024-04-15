@@ -1,7 +1,7 @@
-package dev.dashaun.web.services;
+package dev.dashaun.web.chat.services;
 
-import dev.dashaun.web.data.User;
-import dev.dashaun.web.data.UserRepository;
+import dev.dashaun.web.chat.data.User;
+import dev.dashaun.web.chat.data.UserRepository;
 import java.util.Optional;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

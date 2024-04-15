@@ -1,4 +1,4 @@
-package dev.dashaun.web.data;
+package dev.dashaun.web.chat.data;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;

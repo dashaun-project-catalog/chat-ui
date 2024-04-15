@@ -1,4 +1,4 @@
-package dev.dashaun.web.views.login;
+package dev.dashaun.web.chat.views.login;
 
 import com.vaadin.flow.component.login.LoginI18n;
 import com.vaadin.flow.component.login.LoginOverlay;
@@ -9,7 +9,7 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.router.internal.RouteUtil;
 import com.vaadin.flow.server.VaadinService;
 import com.vaadin.flow.server.auth.AnonymousAllowed;
-import dev.dashaun.web.security.AuthenticatedUser;
+import dev.dashaun.web.chat.security.AuthenticatedUser;
 
 @AnonymousAllowed
 @PageTitle("Login")

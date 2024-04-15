@@ -1,4 +1,4 @@
-package dev.dashaun.web.views.chat;
+package dev.dashaun.web.chat.views.chat;
 
 import com.vaadin.collaborationengine.CollaborationAvatarGroup;
 import com.vaadin.collaborationengine.CollaborationMessageInput;

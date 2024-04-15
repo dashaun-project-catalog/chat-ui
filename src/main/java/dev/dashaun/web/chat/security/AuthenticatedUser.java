@@ -1,8 +1,8 @@
-package dev.dashaun.web.security;
+package dev.dashaun.web.chat.security;
 
 import com.vaadin.flow.spring.security.AuthenticationContext;
-import dev.dashaun.web.data.User;
-import dev.dashaun.web.data.UserRepository;
+import dev.dashaun.web.chat.data.User;
+import dev.dashaun.web.chat.data.UserRepository;
 import java.util.Optional;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Component;
